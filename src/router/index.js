@@ -9,6 +9,11 @@ const menus = [
     path: '/listener-event',
     name: 'ListenerEvent',
     component: lazyLoading('ListenerEvent')
+  },
+  {
+    path: '/scroller-text',
+    name: 'ScrollerText',
+    component: lazyLoading('ScrollerText')
   }
 ]
 
